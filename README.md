@@ -1,6 +1,5 @@
 ![Logo](admin/justgage.png)
-ioBroker.vis-justgage
-============
+# ioBroker.vis-justgage
 
 [justGage](http://justgage.com/) Widget for ioBroker.
 
@@ -24,7 +23,7 @@ More about pointer options could be found here: https://github.com/toorshia/just
 
 ## Changelog
 ![Number of Installations](http://iobroker.live/badges/vis-justgage-installed.svg) ![Number of Installations](http://iobroker.live/badges/vis-justgage-stable.svg)
-### 1.0.1 (2019-10-07)
+### 1.0.2 (2019-11-02)
 - (bluefox) fixed min max
 
 ### 0.7.1 (2016-12-14)
